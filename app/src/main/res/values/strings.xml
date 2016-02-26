@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SlideDrawerMenu</string>
+    <string name="imgdesc">imgdesc</string>
+
+    <string-array name="titles">
+        <item>Facebook</item>
+        <item>Google-Plus</item>
+        <item>TutorialsBuzz</item>
+    </string-array>
+    <array name="icons">
+        <item>@drawable/slidenv_icon_facebook</item>
+        <item>@drawable/slidenv_icon_google_plus</item>
+        <item>@drawable/slidenv_icon_tutorialbussPNG</item>
+    </array>
+</resources>
